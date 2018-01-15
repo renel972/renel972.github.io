@@ -39,7 +39,8 @@ var AppMaterialModule = /** @class */ (function () {
             exports: [
                 material_1.MatToolbarModule,
                 material_1.MatSidenavModule,
-                material_1.MatIconModule
+                material_1.MatIconModule,
+                material_1.MatButtonModule
             ]
         })
     ], AppMaterialModule);
